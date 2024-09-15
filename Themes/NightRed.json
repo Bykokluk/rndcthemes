@@ -118,14 +118,18 @@
         "GREEN_345": "#a80820",
         "GREEN_360": "#a80820",
         "RED_560" : "#a80820",
-        "RED_400": "#a80820",
-    },   
-  
-  "background": {
-      "blur": 0.5,
-      "url": "https://raw.githubusercontent.com/Bykokluk/rndcthemes/main/pictures/wallpaper/vampgirlip.png",
-      "alpha": 0.7
+        "RED_400": "#a80820"
     },
-  "spec": 2
-
+  "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/Bykokluk/rndcthemes/main/pictures/wallpaper/vampgirlip.png",
+      "alpha": 0.9,
+      "color": "#282828"
+  
+    },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
