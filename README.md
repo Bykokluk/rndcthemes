@@ -1,2 +1,2 @@
-# bunnythemes
-My Themes for Bunny, the Mobile Discord Client
+# Themes for Discordrn
+Themes I Prepared/Edited for Discord Rn
