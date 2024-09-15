@@ -118,14 +118,14 @@
         "GREEN_345": "#a80820",
         "GREEN_360": "#a80820",
         "RED_560" : "#a80820",
-        "RED_400": "#a80820"
+        "RED_400": "#a80820",
+    },   
+  
+  "background": {
+      "blur": 0.5,
+      "url": "https://raw.githubusercontent.com/Bykokluk/rndcthemes/main/pictures/wallpaper/vampgirlip.png",
+      "alpha": 0.7
     },
   "spec": 2
 
-  },
-  "background": {
-    "blur": 0.1,
-    "url": "https://github.com/melonwer/themes/blob/1bad8fed07f5c6e8af52302ead6053fd729cec90/vampgirlip.PNG?raw=true",
-    "alpha": 1.0
-  }
 }
